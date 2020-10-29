@@ -1,0 +1,193 @@
+img{
+    max-width: 100%;
+} 
+  
+
+html{
+    font-size: 62.5%;
+} 
+    
+
+#titulo-segundario{
+    color: rgb(19, 25, 78);
+   
+
+    } 
+    
+    
+
+        .size-header.inicio { background: url(../imagenes/fondo.jpg);
+        background-position: center center;   
+        background-size: cover; 
+         height: 80vh;
+         min-height: 60rem;
+        } 
+
+        .frase{
+            padding-top: 40rem;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+           font-size: 2rem;
+           color: salmon;
+           text-align: center;
+        } 
+       .contenedor {
+           max-width: 120rem;
+           margin: 0 auto;
+           
+           
+           
+           
+       } 
+
+       
+
+
+
+       .barra{
+           display: flex;
+           justify-content: flex-end;
+           padding-top: 2rem;
+       }
+    
+       .links a {
+           color: rgb(236, 158, 55);
+           text-decoration: none;
+           font-size: 2.1rem;
+           margin-right: 2rem;
+           font-family: fantasy;
+
+    }
+
+    .links a:hover { 
+        color: rgb(10, 10, 10);
+
+             
+
+ }
+ 
+
+
+
+.logos{
+   display: flex;
+justify-content: space-between;
+} 
+
+
+.icono{
+  flex-basis: calc(33.3% - 1rem);
+  padding-top: 2rem;
+ 
+  
+} 
+
+
+
+.relleno {
+    
+    max-width: 90rem;
+    margin: 0 auto;
+  padding-top: 2rem;
+  text-align: center;
+font-size: 3rem;
+color: rgb(78, 19, 55);
+font-family: 'Times New Roman', Times, serif;
+
+ }    
+
+ .relleno p{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    
+ }     
+
+ #titulo-terciario{
+    color: rgb(19, 25, 78);
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 13rem;
+}
+
+
+.anuncio{
+    flex-basis: calc(33.3% - 1rem);
+    border-style: double;
+    border-color: black  ;
+    border-width: 1rem;
+    background: silver;
+    padding: 2rem;
+}
+
+.productos{
+    padding: 5rem;
+}
+.dinero{
+   color: brown;
+   font-weight: 700 ;
+
+}
+
+.boton{
+    color: cornsilk;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 1.7rem;
+    padding: 1rem 3rem;
+    text-align: center;
+}
+
+
+.botones{
+    background-color: orange;
+    display: block;
+    
+ }
+
+ .botones2{
+     background-color: rgb(60, 204, 60);
+     
+    
+ }
+ .alineadoizquierda{
+     display: flex;
+     justify-content: center
+    
+}
+
+.fondo-de-contacto{
+    padding: 3rem;
+    background: url(../imagenes/fondo\ de\ contacto.jpg);
+    height: 40rem;
+    background-size: cover ;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    color: white;
+    
+   font-size: 4rem;
+
+}
+.parte-de-contacto{
+    flex: 1;
+
+    
+   
+}
+.parte-de-contacto p{
+    font-size: 2rem;
+    text-align: start;
+
+    
+   
+}
+
+
+.botones3{
+    background-color: rgb(60, 204, 60);
+    display: flex;
+    justify-content: start
+    
+}
+    
