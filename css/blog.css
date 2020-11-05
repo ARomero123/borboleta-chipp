@@ -1,0 +1,220 @@
+img{
+    max-width: 100%;
+} 
+  
+
+html{
+    font-size: 62.5%;
+} 
+    
+
+
+        
+        
+    
+        
+        
+       .contenedor {
+           max-width: 120rem;
+           margin: 0 auto;
+        
+           
+       } 
+       .contenedor2 {
+        max-width: 140rem;
+        margin: 0 auto;
+        
+        
+        
+        
+    } 
+
+       
+
+
+
+       .barra{
+           display: flex;
+           justify-content: flex-end;
+           justify-content: space-between;
+           padding-bottom: 1rem;
+background-color:#333333;
+
+          
+       }
+       .bajo{
+        padding-top: 3rem;
+
+       
+    }
+
+       .logo-poscicion{
+        width: 33rem ;
+        height: 7rem ;
+        
+    
+       
+    }
+    
+       .links a {
+           color: white;
+           text-decoration: none;
+           font-size: 2.1rem;
+           margin-right: 2rem;
+           font-family: fantasy;
+           padding-top: 3rem;
+
+    }
+
+    .links a:hover { 
+        color: rgb(10, 10, 10);
+
+             
+
+ }
+ 
+
+ .articulo{
+    
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    margin-left: 2rem;
+
+}
+
+.articulo .blog-imagen{
+    flex-basis: 40%;
+padding-top: 2rem;
+    
+    
+
+}
+
+.articulo .blog-texto{
+    flex-basis: calc(60% - 3rem);
+
+    padding-top: 2rem;
+    
+
+}
+
+.blog-texto h4{
+    margin: 0;
+    line-height: 2rem;
+    font-size: 2rem;
+    
+
+}
+
+.blog-texto a:hover{
+    color: brown;
+    
+    
+
+}
+
+.blog-texto a{
+    text-decoration: none;
+    color: black;
+
+    
+
+}
+
+.blog-texto h4::after{
+   
+    content:  ' ' ;
+    display: block;
+    width: 14rem;
+    height: 0.3rem;
+    background-color: cornflowerblue;
+    margin-top: 1rem;
+
+    
+    
+
+}
+
+.blog-texto span{
+    
+    color:orange
+}
+
+.titulo-blog{
+    
+text-align: center ;
+    font-size: 5rem;
+    font-weight: 600;
+ 
+    padding-left: 11rem;
+    padding-right: 11rem;
+  
+    background-color: lightcoral;
+    border-radius: 3rem;
+
+}
+
+
+
+.blog-texto p{
+    
+ font-size: 1.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+            
+            
+            .site-footer{
+                background-color: #333333;
+                margin: 0;
+                margin-top: 10rem;
+               
+                    } 
+
+                    .copyrigth{
+                        margin: 0;
+                       color: white;
+                        
+                            } 
+
+            .contenedor-footer{
+                                
+             padding-top: 1rem;
+             display: flex;
+             justify-content: space-between;
+                               
+                                
+                                    }
+                          
+            .redes-sociales{
+                                      
+              flex: 1;
+             margin-left: 1.5rem;
+                                        
+                                      
+                              }
+
+            .separacion-redes{
+                                   
+            padding-left: 113rem;
+            padding-bottom: 0.5rem;
+                                              
+              } 

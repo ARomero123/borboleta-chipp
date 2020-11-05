@@ -1,0 +1,223 @@
+img{
+    max-width: 100%;
+} 
+  
+
+html{
+    font-size: 62.5%;
+} 
+    
+
+
+        
+        
+    
+        
+        
+       .contenedor {
+           max-width: 120rem;
+           margin: 0 auto;
+        
+           
+       } 
+       .contenedor2 {
+        max-width: 140rem;
+        margin: 0 auto;
+        
+        
+        
+        
+    } 
+
+    .contenedor3 {
+        max-width: 70rem;
+        margin: 0 auto;    
+        
+        
+    } 
+
+
+       
+
+
+
+       .barra{
+           display: flex;
+           justify-content: flex-end;
+           justify-content: space-between;
+           padding-bottom: 1rem;
+background-color:#333333;
+
+          
+       }
+       .bajo{
+        padding-top: 3rem;
+
+       
+    }
+
+       .logo-poscicion{
+        width: 33rem ;
+        height: 7rem ;
+        
+    
+       
+    }
+    
+       .links a {
+           color: white;
+           text-decoration: none;
+           font-size: 2.1rem;
+           margin-right: 2rem;
+           font-family: fantasy;
+           padding-top: 3rem;
+
+    }
+
+    .links a:hover { 
+        color: rgb(10, 10, 10);
+    }
+
+
+
+
+
+
+        .titulo-blog{
+    
+            text-align: center ;
+                font-size: 5rem;
+                font-weight: 600;
+             
+                padding-left: 11rem;
+                padding-right: 11rem;
+              
+                background-color: lightcoral;
+                border-radius: 3rem;
+            
+            }
+
+            label{
+    
+                font-weight: 600;
+            font-size: 1.3rem;
+            display: block;
+            padding-top: 1rem;
+                }
+
+                legend{
+    
+                    font-weight: 600;
+                font-size: 2rem;
+                
+                    }
+
+                    .boton{
+                        color: cornsilk;
+                        font-weight: 700;
+                        text-decoration: none;
+                        font-size: 1.5rem;
+                        padding: 0.9rem 3rem;
+                        text-align: center;
+                        margin-top: 2rem;
+                
+                    }
+
+                    .botones2{
+                        background-color: rgb(60, 204, 60);
+                        border-radius: 3rem;
+                        border: none;
+                    }
+                    .botones2:hover{
+                        color: black;
+                    }
+
+                    input:not([type="submit"]), select{
+                        background-color: #e1e1e1;
+                        width: 100%;
+                        padding: 0.8rem;
+                        display: block;
+                        margin-bottom: 2rem;
+                        border-radius: 1rem;
+                        border: none;
+                        padding-top: 1rem;
+                        margin-top: 1rem;
+                    }
+                    textarea{
+                        background-color: #e1e1e1;
+                       border: none;
+                       margin-top: 1rem;
+                       border-radius: 1rem;
+                    }
+
+                    select{
+                        
+                       border: none;
+                      -webkit-appearance: none;
+                      appearance: none;
+
+                    }
+
+                    .contenedor3 p{
+                        
+                        font-size: 1.5rem;
+                        font-weight: 600;
+                        color: #4f4f4f;
+            
+ 
+                     }
+
+                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+        .site-footer{
+            background-color: #333333;
+            margin: 0;
+            margin-top: 10rem;
+           
+                } 
+
+                .copyrigth{
+                    margin: 0;
+                   color: white;
+                    
+                        } 
+
+        .contenedor-footer{
+                            
+         padding-top: 1rem;
+         display: flex;
+         justify-content: space-between;
+                           
+                            
+                                }
+                      
+        .redes-sociales{
+                                  
+          flex: 1;
+         margin-left: 1.5rem;
+                                    
+                                  
+                          }
+
+        .separacion-redes{
+                               
+        padding-left: 113rem;
+        padding-bottom: 0.5rem;
+                                          
+          } 
